@@ -23,13 +23,6 @@ Spring Boot is an extension of the Spring framework that simplifies the setup an
 - **Opinionated Defaults**: Provides a set of default configurations to get you started quickly.
 - **Spring Boot CLI**: Allows you to quickly prototype with Spring.
 
-## Spring Boot Tutorial
-
-Spring Boot Tutorial provides basic and advanced concepts of Spring Framework. Our Spring Boot Tutorial is designed for beginners and professionals both.
-
-Spring Boot is a Spring module that provides the RAD (Rapid Application Development) feature to the Spring framework.
-
-Our Spring Boot Tutorial includes all topics of Spring Boot, such as features, project, maven project, starter project wizard, Spring Initializr, CLI, applications, annotations, dependency management, properties, starters, Actuator, JPA, JDBC, etc.
 
 ### What is Spring Boot
 
@@ -135,21 +128,6 @@ SpringBoot_Demo/
 
 ## Getting Started
 
-1. **Clone the repository**:
-    ```sh
-    git clone <repository-url>
-    cd SpringBoot_Demo
-    ```
-
-2. **Build the project**:
-    ```sh
-    mvn clean install
-    ```
-
-3. **Run the application**:
-    ```sh
-    mvn spring-boot:run
-    ```
 
 **Output:**
 
